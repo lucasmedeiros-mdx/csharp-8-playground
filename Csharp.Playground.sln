@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground.Tests", "Playgro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.NetFramework.Tests", "Playground.NetFramework.Tests\Playground.NetFramework.Tests.csproj", "{CC8B7BE1-F585-4056-85D4-28F7B0E08DA6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground.Core", "Playground.Core\Playground.Core.csproj", "{0C2F42C1-F799-415A-8D85-B59BDDF80E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground.Standard", "Playground.Standard\Playground.Standard.csproj", "{0C2F42C1-F799-415A-8D85-B59BDDF80E81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.NetCore", "Playground.NetCore\Playground.NetCore.csproj", "{4BE2F606-759A-4B27-9F65-40C16037026B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground.NetCore", "Playground.NetCore\Playground.NetCore.csproj", "{4BE2F606-759A-4B27-9F65-40C16037026B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

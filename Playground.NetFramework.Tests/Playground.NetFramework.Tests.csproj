@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Playground.Core\Playground.Core.csproj">
+    <ProjectReference Include="..\Playground.Standard\Playground.Standard.csproj">
       <Project>{0c2f42c1-f799-415a-8d85-b59bddf80e81}</Project>
-      <Name>Playground.Core</Name>
+      <Name>Playground.Standard</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
