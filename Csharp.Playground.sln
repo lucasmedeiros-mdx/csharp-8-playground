@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground.Tests", "Csharp.Playground\Playground.Tests.csproj", "{3A466C3C-ED71-44E3-8EE7-44259AAB0A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Playground.Tests", "Playground.Tests\Playground.Tests.csproj", "{3A466C3C-ED71-44E3-8EE7-44259AAB0A73}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.NetFramework.Tests", "Playground.NetFramework.Tests\Playground.NetFramework.Tests.csproj", "{CC8B7BE1-F585-4056-85D4-28F7B0E08DA6}"
 EndProject
